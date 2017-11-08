@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "PCB FootPrints")(type KiCad)(uri "$(KIPRJMOD)\\PCB FootPrints.pretty")(options "")(descr ""))
+  (lib (name WS2811_PWM_PCB)(type KiCad)(uri "$(KIPRJMOD)\\WS2811_PWM_PCB.pretty")(options "")(descr ""))
 )
