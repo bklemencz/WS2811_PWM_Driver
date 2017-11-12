@@ -1,4 +1,4 @@
-update=11/9/2017 1:43:58 PM
+update=11/12/2017 12:48:03 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,9 +25,19 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
-LibDir=../../PCB_Libs/KICad-Library
+LibDir=../KICad-Library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -60,13 +70,3 @@ LibName28=contrib
 LibName29=valves
 LibName30=BK_Common
 LibName31=WS2811_PWM_Driver
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60

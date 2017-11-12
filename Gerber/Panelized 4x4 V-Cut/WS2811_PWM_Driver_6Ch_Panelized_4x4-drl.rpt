@@ -1,5 +1,5 @@
-Drill report for C:\Users\t9569bk\Documents\KiCad\WS2811_PWM_Driver\Gerber\Panelized 4x4\WS2811_PWM_Driver_6Ch_Panelized_4x4.kicad_pcb
-Created on 11/9/2017 2:12:28 PM
+Drill report for X:/WS2811_PWM_Driver/Gerber/Panelized 4x4 V-Cut/WS2811_PWM_Driver_6Ch_Panelized_4x4.kicad_pcb
+Created on 11/12/2017 1:17:59 PM
 
 Copper Layer Stackup:
     =============================================================
@@ -7,7 +7,7 @@ Copper Layer Stackup:
     L2 :  B.Cu                      back
 
 
-Drill file 'C:WS2811_PWM_Driver_6Ch_Panelized_4x4.drl' contains
+Drill file 'X:WS2811_PWM_Driver_6Ch_Panelized_4x4.drl' contains
     plated through holes:
     =============================================================
     T1  0.40mm  0.016"  (464 holes)
@@ -15,7 +15,7 @@ Drill file 'C:WS2811_PWM_Driver_6Ch_Panelized_4x4.drl' contains
     Total plated holes count 464
 
 
-Drill file 'C:WS2811_PWM_Driver_6Ch_Panelized_4x4-NPTH.drl' contains
+Not plated through holes are merged with plated holes
     unplated through holes:
     =============================================================
 
